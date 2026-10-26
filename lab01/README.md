@@ -4,7 +4,7 @@
 |---------|---------------------------|
 | Version | 0.2                       |
 | Date    | 2026-10-26                |
-| Author  | TODO your name            |
+| Author  | Ouk Puthirith             |
 | Status  | Draft                     |
 
 ## Files
