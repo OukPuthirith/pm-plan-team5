@@ -1,8 +1,7 @@
-# pm-plan-<team>
+# pm-plan-<yourname>
 
-- Team: team5
-- Members: Ouk Puthirith (239618634), <name 2> (<github id>), <name 3> (<github id>), <name 4> (<github id>)
-- Course: <course name and code>
+- Name: Ouk Puthirith
+- Course: IT project management
 - Project: Realtime Quiz platform (14 weeks from 2026-09-29)
 
 ## Labs
