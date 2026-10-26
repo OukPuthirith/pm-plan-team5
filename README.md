@@ -1,8 +1,8 @@
-# pm-plan-<yourname>
+# pm-plan-oukputhirith
 
 - Name: Ouk Puthirith
-- Course: IT project management
+- Course: TODO course name and code
 - Project: Realtime Quiz platform (14 weeks from 2026-09-29)
 
 ## Labs
-- Lab-01: in progress (project charter, stakeholders, business case, process groups)
+- Lab-01 completed: charter, stakeholders, business case, process groups (see lab01/README.md)
