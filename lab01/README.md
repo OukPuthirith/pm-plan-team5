@@ -2,9 +2,9 @@
 
 | Field   | Value                     |
 |---------|---------------------------|
-| Version | 0.1                       |
+| Version | 0.2                       |
 | Date    | 2026-10-26                |
-| Author  | Ouk Puthirith             |
+| Author  | TODO your name            |
 | Status  | Draft                     |
 
 ## Files
@@ -17,6 +17,7 @@
 | lab01/business-case.md        | quantified problem, options A, B and C, comparison with payback and a 6-lecturer sensitivity, risks, recommendation and week-7 review gate |
 | lab01/business-case.csv       | every cost and benefit line with quantity, unit cost, amount and the written formula |
 | lab01/process-groups.md       | table of the five process groups, Mermaid Gantt over the 14 weeks and three phase gates |
+| lab01/post-mortem.md          | challenge: post-mortem of the fictional CampusPay case and five commitments linked to the charter |
 
 ## Inputs reused
 | Input                                   | Version / tag |
@@ -27,3 +28,4 @@
 | Date       | Version | Change                                                 |
 |------------|---------|--------------------------------------------------------|
 | 2026-10-26 | 0.1     | Lab-01: charter, stakeholders, business case, mapping  |
+| 2026-10-26 | 0.2     | Challenge: post-mortem.md added (CampusPay case, five commitments traced to the charter) |
